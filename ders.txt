@@ -5,3 +5,5 @@ Repository
 Commit
 
 Branch Dal
+
+Ekleme yapıldı güncellendi
