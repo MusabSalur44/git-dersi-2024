@@ -1,0 +1,9 @@
+Git Temel Kavramları
+
+Repository
+
+Commit
+
+Branch Dal
+
+Ekleme yapıldı güncellendi.
